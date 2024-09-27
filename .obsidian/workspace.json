@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "f81155ac701680d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c81ebf8e5d4d2c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc8a38172278618e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00/BAC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34cb491518f15add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00/lncRNA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4f6020d93ff53b7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "412f7d5b6ca71470",
+    "type": "split",
+    "children": [
+      {
+        "id": "d331298f7211f0e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edccbb2b4b5f991a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ceb55466fa0754f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50fc048a08d57e9c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "940f7ad9c6e89501",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a5a8425e943c2b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f54ce11f367c87c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00/lncRNA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eda89d4a9d3488cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00/lncRNA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06778a702db11286",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1400ca2aa232ef15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00/lncRNA.md"
+              }
+            }
+          },
+          {
+            "id": "0a957b7aca3766eb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "34cb491518f15add",
+  "lastOpenFiles": [
+    "00/CDS.md",
+    "00/PCR.md",
+    "00/Lewin's Genes XII.Jones and Bartlett Learning.12th(2018).pdf",
+    "00/miRNA.md",
+    "00/GFP.md",
+    "00/RNase.md",
+    "00/LOX.md",
+    "00/未命名.md",
+    "00/生物信息学.md",
+    "00/非编码RNA.md",
+    "00/功能基因研究方法及策略.md",
+    "00/报告基因.md",
+    "本科论文/参考文献.md",
+    "本科论文/检查.md",
+    "本科论文/HPLC分析.md",
+    "未命名 1/未命名.md",
+    "未命名.md",
+    "00/BAC.md",
+    "未命名 2",
+    "00/双分子荧光互补.md",
+    "00/酵母单杂交.md",
+    "00/摘要12.md",
+    "00/亚细胞定位.md",
+    "00/1.md",
+    "00/2023   自身S - RNase通过降低2个花粉特异性COBRA基因的表达来抑制梨花粉管的生长.pdf",
+    "00/2020.md",
+    "00/操纵子.md",
+    "00/未命名 2.md",
+    "00/全基因组复制(WGD)事件（Whole genome duplication）.md",
+    "00/2020   多组学分析揭示了microRNAs在高温或低温条件下参与梨果实衰老.pdf",
+    "00/梨基因组.pdf",
+    "未命名 1",
+    "附件文件夹/1c42f09ae93097622ba4dc8dc3fb6e04.jpeg"
+  ]
+}

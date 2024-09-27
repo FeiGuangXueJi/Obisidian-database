@@ -1,0 +1,1 @@
+mya(million years ago),即百万年前,这是一个表示时刻的单位,指距今百万年

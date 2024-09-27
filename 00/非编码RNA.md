@@ -1,0 +1,5 @@
+目前确定的编码RNA大约为20000个左右，占总基因组序列的 < 2%时，人类基因组的测序让许多人感到惊讶 [8]。基因表达是生命各个方面所需的中心过程，其调控定义了所有细胞和组织的发育和稳态。该过程的核心组成部分是位于细胞核中的基因组DNA，作为信使RNA（Messenger RNAs， mRNA）转录的模板，**mRNA**转位到细胞质中，并作为**蛋白质翻译的蓝图**。这些过程需要几类非蛋白质编码 RNA （Non-protein coding RNAs, ncRNA） 才能发挥作用：**小核 RNA**（Small nuclear RNAs, snRNA） 主要参与**mRNA的剪接**事件。**转移RNA**（Transfer RNAs, tRNA） **反密码子**通过特异性识别 **mRNA 的密码子**（三核苷酸序列）并以正确的顺序将**氨基酸募集到核糖体**（Ribosome），将 **mRNA 序列解码为肽或蛋白质**。**核糖体RNA**（Ribosomal RNAs, rRNA） 被认为代表细胞中**最丰富的RNA分子**，并形成核糖体的框架，核糖体是蛋白质翻译所必需的大分子结构。这些管家RNA组成型表达，对细胞的正常功能至关重要。这些管家 RNA（Housekeeping RNAs） 的很大一部分可能带有化学修饰，这些修饰由一类小核仁RNA （Small nucleolar, snoRNA） 添加 [1-2]。
+
+1990 年代小调节性 ncRNA 的发现彻底改变了我们对 ncRNA 作为调节分子的理解。Andrew Fire、Craig Mello等人可以证明，小的双链RNA（dsRNA）能够通过一种称为RNA干扰的过程介导线虫秀丽隐杆线虫中互补mRNA的转录后基因沉默[3,4]。快速的内源性 dsRNA，例如小干扰 RNA （siRNA） 和microRNA（[[miRNA]]） 存在于多种生物体中，如植物、苍蝇和哺乳动物。近年来，越来越多的新的调节性小RNA类别被发现[5]，其中piwi相关RNA 、miRNA和siRNA属于迄今为止研究得最好的类别[1]。
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/j29MSzdY5kI4dvdwzNEEUcQYJSAFbbLPDH8MnASLTJwhcHickvZLcavgicXtCYHZm3kTrMYO4k4D8Y9NDSythUKQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)https://mp.weixin.qq.com/s/oKqngD8AmPyWkipDAAmRqA
