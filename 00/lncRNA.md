@@ -7,7 +7,7 @@
 **（图3 编码蛋白质的基因（PCGs）和LncRNA转录产物产生的区别特征(A) LncRNA和(B) mRNA: LncRNA基因表达较低，因为较少的转录因子(TF)结合启动子）**  
 
 lncRNA基因的基因调控–转录单元内的调控元件：对染色质和DNA修饰的研究导致了整个基因组中潜在调控区域的注释，有时甚至是特定组织和细胞类型的调控区域。在转录单元内具有明确调节元件的 lncRNA 的一个很好的例子是 ThymoD lncRNA 位点。它的转录可防止位于其转录单元内的CTCF结合位点的甲基化（图4A).CTCF 的结合允许 Bcl11b 转录单元在与 Bcl11b 激活区域相同的结构域中循环。当 ThymoD 的转录入 pA 信号阻断时，这种激活会丢失，在外显子之后和 CTCF 结合位点之前插入，因此 CTCF 结合位点被甲基化 （图4A).因此，转录活性对Bcl11b 的调节具有间接的结构性影响，而 ThymoD RNA 是可有可无的 [11-12]。
-
+1
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/j29MSzdY5kI4dvdwzNEEUcQYJSAFbbLPtMFRfvs45pQq8VZL7TbWiafRkibN3mKg4w2dSKhCZp8Y8veOn4XaSkTw/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **（图4 lncRNA转录调节基因表达）**  
